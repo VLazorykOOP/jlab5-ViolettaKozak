@@ -1,10 +1,10 @@
-public
-class Main {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println(" Java lab 7 ");
-        ThreadStarter.main(args);
-	// write your code here
+        //ThreadStarter.main(args)
+        First.main();
+        Second.main();
     }
 }
 
